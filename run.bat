@@ -1,1 +1,1 @@
-java -jar LinkCollider.jar eliasgetachewc1988@gmail.com Toshiba1988
+java -jar LinkCollider.jar <username> <password>
